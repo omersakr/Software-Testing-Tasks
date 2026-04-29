@@ -1,0 +1,24 @@
+{
+  "name": "software-testing-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omersakr/Software-Testing-Task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/omersakr/Software-Testing-Task1/issues"
+  },
+  "homepage": "https://github.com/omersakr/Software-Testing-Task1#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
